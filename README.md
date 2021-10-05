@@ -82,14 +82,14 @@ Test the `deposit` function by sending various values. Keep an eye on the `emplo
 
 First you need to set the value equal to 0 before deploying in order for there to be nore error messages. 
 
-![Picture2](Images/Remix_Contract_Deployment.png)
+![Picture2](Images/Remix_Contract_Deployment.PNG)
 
-![Picture3](Images/Remix_MetaMask_Contract_Deployment.png)
+![Picture3](Images/Remix_MetaMask_Contract_Deployment.PNG)
 
 Then you test it using different values. In this scenario I chose a value of 6 and chagned the type to Ether.
 
-![Picture4](Images/Test_Deposit.png)
+![Picture4](Images/Test_Deposit.PNG)
 
-![Picture5](Images/Confirm.png)
+![Picture5](Images/Confirm.PNG)
 
 
